@@ -1,0 +1,11 @@
+0 pacman
+1 angrybirds
+2 candycrush
+3 tetris
+4 lol
+5 fortnite
+6 amongus
+7 geometrydash
+8 minecraft
+9 snake
+10 roblox
